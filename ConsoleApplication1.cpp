@@ -13,7 +13,7 @@ int main()
     int sum;  //holds the sum
 
 
-    cout << "Please enter two numberse separated by a space:" << endl;
+    cout << "Please enter two numbers separated by a space:" << endl;
     cin >> num1 >> num2;
 
     sum = num1 + num2;
